@@ -52,13 +52,9 @@
 
 ### 📌 Status
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrtn1101&show_icons=true&theme=radical)
+<!-- 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=dnrtn1101&show_icons=true" height=160/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhcsky&layout=compact" height=160> -->
-<p>
-
-  
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnrtn1101" height=160/>
-</p>
+<p> -->
 
