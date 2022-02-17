@@ -59,5 +59,6 @@
 
   
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnrtn1101&cache=c">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnrtn1101" height=160/>
 </p>
+
